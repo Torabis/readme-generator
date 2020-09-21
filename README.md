@@ -1,6 +1,6 @@
 # ReadMe Generator
   ## Description
-  This node.js app creates a profesional readme file based on some question
+  this node.js app creates a profesional readme file based on some question
   ## Table of Contents
   *[Installation](#installation)  
   *[Usage](#usage)  
@@ -10,21 +10,20 @@
   *[Questions](#questions)  
 
   ## Installation
-  Pull from github , then run node index.js in terminal
+  pull from github , then run node index.js in terminal
 
   ## Usage
-  Install node tools before using this app
+  install node tools before using this app
 
   ## Contributing
-  No Contribution
+  no contribution
 
   ## License
   No licence  
  
   ## Tests
-  Test is available in video
-  https://drive.google.com/file/d/1IksYCeNBDpLfpeJXz6ycByo6l9XHAWuW/view
-
+  test is available in video
+  ![Test ReadMe Generator](./video/Test ReadMe Generator.mp4)
   ## Questions
   Email: sadihome@gmail.com  
   GitHub: Torabis  
