@@ -23,7 +23,7 @@
  
   ## Tests
   test is available in video
-  ![Test ReadMe Generator](./video/Test ReadMe Generator.mp4)
+  https://drive.google.com/file/d/1IksYCeNBDpLfpeJXz6ycByo6l9XHAWuW/view
   ## Questions
   Email: sadihome@gmail.com  
   GitHub: Torabis  
